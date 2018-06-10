@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Nguyễn Đình Trung",
+    "label": "System Engineer",
+    "picture": "https://media.licdn.com/dms/image/C4E03AQGOMqJSeiUkCQ/profile-displayphoto-shrink_200_200/0?e=1534377600&v=beta&t=tVV8gdfpHzU6GoXJAA806n_RWQDM2p3hK7woRWFdoek",
+    "email": "nguyendinhtrung141@gmail.com",
+    "phone": "(84) 936-414-498",
+    "website": "https://dinhtrung.github.io",
+    "summary": "Working as a support engineer, software developer and system integrator for many telecommunication systems in South East Asia and Africa, I gained experiences about large scales and complex system architectures, cover both Full stack Development and Operational tasks, that help me to become an expert DevOps and System Architecture.",
+    "location": {
+      "address": "210 D1 Trung Tu, Dong Da,",
+      "postalCode": "100000",
+      "city": "Hanoi",
+      "countryCode": "VN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nguyendinhtrung141",
+        "url": "https://www.linkedin.com/in/nguyendinhtrung141/"
+      },
+      {
+        "network": "Skype",
+        "username": "nguyendinhtrung141",
+        "url": "skype:nguyendinhtrung141"
+      },
+      {
+        "network": "Whatsapp",
+        "username": "84936414498",
+        "url": "https://api.whatsapp.com/send?phone=84936414498"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Willbe Solutions",
+      "position": "Senior Java Developer",
+      "website": "http://www.willbesolution.com/",
+      "startDate": "2017-04",
+      "endDate": "2018-01",
+      "summary": "Will-Be Solution, Inc. provides a unique solution which harmonizes management strategy consulting and end-to-end financial business solutions according to the characteristics of the financial business realm. Will-Be Solution, Inc. has placed an emphasis on planning, supporting, and managing strategy and IT, and has been providing solutions in Business Analysis and Improvement, Enterprise Data Management, and CRM/SEM Solutions areas.",
+      "highlights": [
+        "Act as System Integrator for FirmBanking, help collaborate between Korea team and 3rd party (VNPT Epay) to successfully develop and deploy of FirmBanking system. FirmBanking is a mediation gateway for WooriBank core system. It interact with 3rd parties system to initiate and process Transaction.",
+        "Develop and bug-fix for iFRB project, a reporting engine, which collect raw data from Core Bank and convert into Excel files, then submit to National Bank for further process."
+      ]
+    },
+    {
+      "company": "Syniverse Technologies",
+      "position": "System Engineer",
+      "website": "https://www.syniverse.com/",
+      "startDate": "2014-09",
+      "endDate": "2016-12",
+      "summary": "Syniverse has been a pioneer in mobile since the dawn of the industry – over 30 years ago – and today we connect more than 1,500 mobile operators, enterprises, ISPs and OTTs in almost 200 countries.",
+      "highlights": [
+        "Act as a level 1 support for Malaysia Maxis Caller Ringtune, Philipines Globe Callback Platform, Vietnam Vietnammobile Welcome SMS and Indonesia Telkomsel USSD Gateway.",
+        "System Integrator for Mobifone Local Roaming Data, bridge all technical details between Syniverse to map with Mobifone requirements."
+      ]
+    },
+    {
+      "company": "MYSON Solution Sdn Bhd",
+      "position": " Senior Java Developer",
+      "website": "http://myson.com.my/",
+      "startDate": "2016-12",
+      "endDate": "2017-04",
+      "summary": "MYSON Solution incorporated since early 2013, the main focus as being the game changer to corporate and enterprise businesses, in transforming traditional IT system into fully digitization, and at the same time reaping huge benefit and opportunities from the evolution.",
+      "highlights": [
+        "Develop a Northbound SMPP Adapter for Axiata Group, Malaysia, that takes in SMPP traffic from 3rd parties gateway and convert to RESTFul API send to Southbound MIFE Gateway. Develop entire system from scratch, with jHipster stack (AngularJS4, Spring, Hibernate and ActiveMQ)."
+      ]
+    },
+    {
+      "company": "Information Services & Technology Transfer Co, Ltd.",
+      "position": "System Engineer",
+      "website": "https://www.istt.com.vn/",
+      "startDate": "2008-07",
+      "endDate": "2014-09",
+      "summary": "Founded in July 2001, Information Services & Technology Transfer Co., Ltd (ISTT) has been achieving the position of leading integrated solution provider in the field of Information Technology and Telecommunications in Vietnam.",
+      "highlights": [
+        "Develop MobiFone iSMS, SMS gateway for operator's content providers, which provide brandname SMS broadcast service to subscribers.",
+        "Integrate OpenCode USSD Gateway, provides USSD channel to entire Mobifone network, include very high traffic service codes like *090, *112, *105. The Gateway convert original MAP packet in SIGTRAN into SMPP in IP backbone network. Various services are deployed in the system to 3rd party services on IP network.",
+        "Project Sub-Manager for Mobifone Local Roaming Data Platform, provide GPRS for Inbound Roamer, allow them to use Internet with same number but with low costs. It map the current roaming SIM with a virtual SIM card, to help save 60% of GPRS Data charging for Inbound Roamer.",
+        "System Integrator for Mobifone Customer Lifecycle Management System, a solution from OnMobile, that help operator to segment their subscribers based on each customer transaction history. The system collect all CDR in 90 days, do the analytics, generate promotion campaigns and offers, then send to each segment to ensure the customers are happy that operator offer fits their needs."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Cosmos Evolve Allied Services",
+      "position": "HEAD of VAS",
+      "website": "http://cosmosalliedservices.ng/",
+      "startDate": "2014-09",
+      "endDate": "",
+      "summary": "Evolve Cosmos Allied Services is a leading services company in the area of Telecommunications Value Added Services, Human Resource Consulting, Oil & Gas, software engineering and general waste management solution.",
+      "highlights": [
+        "Develop and Integrate Value Added Services accross all Nigeria operators, including Airtel, MTN, Etisalat, 9mobile and Globacom."
+      ]
+    },
+    {
+      "organization": "HoHuy Media",
+      "position": "Technical Manager",
+      "website": "http://hohuymedia.vn/",
+      "startDate": "2014-12",
+      "endDate": "2015-06",
+      "summary": "HoHuy Media is a content provider for all Vietnam operator networks, including Vinaphone, Viettel and Mobifone.",
+      "highlights": [
+        "Manage entire IT infrastructure, operate and maintain system stability, including MT Sub SMS broadcasting system, SClip video portal and Job Alert services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hanoi University of Technology",
+      "area": "Electronics & Telecommunication",
+      "studyType": "Bachelor",
+      "startDate": "2008",
+      "endDate": "2003",
+      "gpa": "6.5",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Bootstrap",
+        "AngularJS",
+        "Wordpress",
+        "Yii Framework"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Micro services",
+        "HaProxy"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": [
+        "Spring Boot",
+        "jHipster",
+        "Jenkins",
+        "Spring Cloud",
+        "Fabric8"
+      ]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Intermediate",
+      "keywords": [
+        "express",
+        "typescript",
+        "consul"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "Oracle",
+        "MySQL",
+        "Postgresql",
+        "Mongodb",
+        "Cassandra",
+        "Redis"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": [
+        "Yii2",
+        "Laravel",
+        "CodeIgniter"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
