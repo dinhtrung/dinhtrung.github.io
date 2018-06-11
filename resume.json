@@ -112,10 +112,12 @@
       "institution": "Hanoi University of Technology",
       "area": "Electronics & Telecommunication",
       "studyType": "Bachelor",
-      "startDate": "2008",
-      "endDate": "2003",
+      "startDate": "2003",
+      "endDate": "2008",
       "gpa": "6.5",
-      "courses": []
+      "courses": [
+        
+      ]
     }
   ],
   "awards": [],
@@ -188,6 +190,10 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "Native Speaker"
     }
   ],
   "interests": [],
